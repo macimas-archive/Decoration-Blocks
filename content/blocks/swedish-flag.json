@@ -1,0 +1,11 @@
+{
+	"type": "Block",
+	"name": "Swedish Flag",
+	"description": "The first ever block i made. I dont even live in Sweden.",
+	"health": 100,
+	"breakable": true,
+	"requirements": [
+		{ "item": "titanium", "amount": 8, },
+		{ "item": "surge-alloy", "amount": 2 }
+	]
+}
