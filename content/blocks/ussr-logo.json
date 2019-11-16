@@ -3,7 +3,8 @@
 	"name": "USSR Logo",
 	"description": "сука блять",
 	"health": 400,
-	"size": 2
+	"size": 2,
+	"solid": true,
 	"breakable": true,
 	"idleSound": "anthem-melody",
 	"idleSoundVolume": 2,
