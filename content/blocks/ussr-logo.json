@@ -7,7 +7,7 @@
 	"solid": true,
 	"breakable": true,
 	"idleSound": "anthem-melody",
-	"idleSoundVolume": 2,
+	"idleSoundVolume": 5.0,
 	"requirements": [
 		{ "item": "copper", "amount": 7, },
 		{ "item": "surge-alloy", "amount": 3 }
